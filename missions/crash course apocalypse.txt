@@ -42,6 +42,8 @@
         // Note: This item needs to have "vgui\" at the front. It is assumed
 	// for the poster and the map thumbnails.
  	"OuttroImage"	"vgui\OutroTitle_Crash Course APOCALYPSE"
+
+	"survivor_set"	"1"
  
 	// Loading poster data
 	//
@@ -52,28 +54,7 @@
 	{
 		"posterImage"		"LoadingScreen_Crash Course APOCALYPSE"
  
-		"posterTitle"		""
-		"posterTitle_y"		"360"
- 
-		"posterTagline"		""
-		"posterTagline_y"	"372"
- 
-		// Adjust these to align the survivor names on your poster.
-		// 0,0 is center of the poster.
-		// Adjusting x value moves the names horizontally.
-		// Adjusting y value moves the names vertically.
-		// Try to space them in a staggered arrangement so that long names do not overlap.
-		"bill_player_name_x"	"-53"
-		"bill_player_name_y"	"15"
- 
-		"louis_player_name_x"	"118"
-		"louis_player_name_y"	"-50"
- 
-		"zoey_player_name_x"	"31"
-		"zoey_player_name_y"	"-5"
- 
-		"francis_player_name_x"	"-118"
-		"francis_player_name_y"	"-10"
+		"character_order"	"teengirl;biker;manager;namvet"
 	}
  
 	// The modes section lists each of your campaign maps and each mode

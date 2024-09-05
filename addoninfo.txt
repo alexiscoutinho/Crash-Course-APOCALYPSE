@@ -2,7 +2,7 @@
 
 "AddonInfo"
 {
-     addonSteamAppID         500                                                     // 500 is the app ID for Left 4 Dead
+     addonSteamAppID         550                                                     // 550 is the app ID for Left 4 Dead 2
      addontitle              "Crash Course APOCALYPSE"                                             // Add-on title that shows up in Add-ons list. ~20 chars max
      addonversion	     6.0                                                     // Add-on version.
      addontagline            "When Crashing becomes the only coures you know,be sure to bring a lot of body bags!"	             // Add-on tagline or wrap-up- a short description. ~100 chars max
